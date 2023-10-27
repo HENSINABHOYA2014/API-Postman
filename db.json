@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users":[
+    {
+      "name": "Hensi",
+      "surname": "Nabhoya",
+      "userid": 1
+    },
+    {
+      "name": "Shruti",
+      "surname": "Vadhani",
+      "userid": 2
+    },
+    {
+      "name": "Dhruvit",
+      "surname": "Nabhoya",
+      "userid": 3
+    },
+    {
+      "name": "Rutvi",
+      "surname": "Patel",
+      "userid": 4
+    },
+    {
+      "name": "Ruchi",
+      "surname": "Vavadiya",
+      "userid": 5
+    }
+  ]
+}
